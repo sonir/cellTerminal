@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 242.0, 138.0, 1585.0, 794.0 ],
+		"rect" : [ 57.0, 344.0, 1585.0, 794.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -28,6 +28,20 @@
 		"digest" : "",
 		"tags" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"frgb" : 0.0,
+					"id" : "obj-135",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1004.449951, 245.5, 150.0, 20.0 ],
+					"text" : "11/1 : 57112 -> 57138"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
@@ -514,8 +528,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1313.199951, 295.0, 50.0, 20.0 ],
-					"presentation_rect" : [ 1285.699951, 618.0, 0.0, 0.0 ]
+					"patching_rect" : [ 1313.199951, 295.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -531,8 +544,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1249.199951, 295.0, 50.0, 20.0 ],
-					"presentation_rect" : [ 1222.699951, 616.0, 0.0, 0.0 ]
+					"patching_rect" : [ 1249.199951, 295.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -548,8 +560,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1186.199951, 295.0, 50.0, 20.0 ],
-					"presentation_rect" : [ 1157.699951, 616.0, 0.0, 0.0 ]
+					"patching_rect" : [ 1186.199951, 295.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -565,8 +576,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1123.199951, 295.0, 50.0, 20.0 ],
-					"presentation_rect" : [ 1257.0, 675.0, 0.0, 0.0 ]
+					"patching_rect" : [ 1123.199951, 295.0, 50.0, 20.0 ]
 				}
 
 			}
@@ -784,8 +794,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 931.200012, 277.5, 146.0, 20.0 ],
-					"text" : "udpsend 127.0.0.1 57112"
+					"patching_rect" : [ 931.200012, 277.5, 147.0, 20.0 ],
+					"text" : "udpsend 127.0.0.1 58137"
 				}
 
 			}
