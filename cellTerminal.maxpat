@@ -4291,10 +4291,10 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-150", 1 ],
+					"destination" : [ "obj-150", 2 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 701.5, 615.0, 1092.0, 615.0, 1092.0, 396.0, 1168.199951, 396.0 ],
+					"midpoints" : [ 701.5, 615.0, 1092.0, 615.0, 1092.0, 414.0, 1219.699951, 414.0 ],
 					"source" : [ "obj-134", 0 ]
 				}
 
@@ -4348,7 +4348,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-150", 0 ],
+					"destination" : [ "obj-150", 1 ],
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-144", 0 ]
